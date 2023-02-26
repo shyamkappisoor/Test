@@ -1,1 +1,2 @@
-var d =''
+var d ='';
+d='dsds';
